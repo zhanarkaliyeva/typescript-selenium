@@ -1,0 +1,22 @@
+{
+  "name": "typescript_selenium",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.2",
+    "@types/node": "^20.14.9",
+    "@types/selenium-webdriver": "^4.1.23",
+    "chromedriver": "^126.0.4",
+    "selenium-webdriver": "^4.22.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
